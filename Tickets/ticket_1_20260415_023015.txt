@@ -1,0 +1,7 @@
+Orden ID: 1
+Cliente: Cliente Limpio
+Fecha: 2026-04-15T02:30:15.198182
+---
+Hamburguesa clásica x1 - $85.00
+---
+Total: $85.00

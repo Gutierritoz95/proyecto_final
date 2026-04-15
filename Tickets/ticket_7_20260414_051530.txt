@@ -1,0 +1,10 @@
+Orden ID: 7
+Cliente: Ana Pérez
+Fecha: 2026-04-14T05:15:30.309069
+---
+Hamburguesa clásica x1 - $85.00
+hamburguesa con Especial x1 - $150.00
+Hamburguesa doble x1 - $110.00
+Hamburguesa con Chocolate x1 - $150.00
+---
+Total: $495.00

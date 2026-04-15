@@ -1,0 +1,7 @@
+Orden ID: 1
+Cliente: Ana Pérez
+Fecha: 2026-04-15T02:14:57.005738
+---
+Papas fritas x1 - $35.00
+---
+Total: $35.00

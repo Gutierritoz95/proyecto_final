@@ -1,0 +1,7 @@
+Orden ID: 2
+Cliente: Cliente Ticket
+Fecha: 2026-04-15T02:18:02.696786
+---
+Hamburguesa clásica x1 - $85.00
+---
+Total: $85.00

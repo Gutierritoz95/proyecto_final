@@ -1,0 +1,7 @@
+Orden ID: 3
+Cliente: Ana Pérez
+Fecha: 2026-04-15T02:19:28.523812
+---
+Refresco x1 - $25.00
+---
+Total: $25.00

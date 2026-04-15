@@ -1,0 +1,7 @@
+Orden ID: 6
+Cliente: Ana Pérez
+Fecha: 2026-04-14T05:01:10.714420
+---
+Extra 1 x1 - $20.00
+---
+Total: $20.00
